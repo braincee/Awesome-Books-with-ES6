@@ -13,7 +13,7 @@ class DisplayPage {
       });
     };
 
-     /* creating a new Book */
+  /* creating a new Book */
   newBook = (book) => {
     const booksCatalogue = document.querySelector('.lib-catalogue');
     const bookCatalogue = document.createElement('div');
