@@ -1,4 +1,4 @@
-class Storage {
+export default class Storage {
     getBooks = () => {
       let books;
       if (localStorage.getItem('booksKeeper') === null) {
