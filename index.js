@@ -1,4 +1,4 @@
-import {DateTime} from './modules/luxon.js';
+import { DateTime } from './modules/luxon.js';
 import Book from './modules/book.js';
 import Storage from './modules/storage.js';
 
@@ -99,10 +99,10 @@ document.addEventListener('click', (e) => {
   }
 });
 
-// Displayong current date and Time using Luxon
-const dateTime = document.querySelector('#date-text');
-const clock = () => {
+// Displaying current date and Time using Luxon
+const dateTime = document.querySelector('#date-time');
+const currentTime = () => {
   const currentDateTime = DateTime.now().toLocaleString(DateTime.DATETIME_FULL_WITH_SECONDS);
   dateTime.innerHTML = currentDateTime;
 };
-setInterval(clock, 500);
+setInterval(currentTime, 500);
