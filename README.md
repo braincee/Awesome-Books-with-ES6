@@ -13,8 +13,7 @@
 
 ## Screenshots 
 
-![](./logo/Screenshot-2.png) ![](./logo/Screenshot-1.png)
-
+![](./logo/all-devices-white.png)
 
 ## Live Demo 🔗
 
