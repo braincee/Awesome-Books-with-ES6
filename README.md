@@ -4,21 +4,23 @@
 
 > The website has a collection of books with the Title and Author Name with a form to add books with title and author inputs and a button to remove a book.
 
-
-## Live Demo 🔗
-
-## Screenshots 
-
-![](./logo/book-1.png) ![](./logo/book-2.png)
-
-
-Check the live demo [here](https://braincee.github.io/Awesome-Books-with-ES6/#)👈
-
 ## Built With
 
 - HTML
-- Javascript
+- Javascript(ES6)
 - CSS
+
+
+## Screenshots 
+
+![](./logo/Screenshot-2.png) ![](./logo/Screenshot-1.png)
+
+
+## Live Demo 🔗
+
+Check the live demo [here](https://braincee.github.io/Awesome-Books-with-ES6/#)👈
+
+
 
 To get a local copy up and running follow these simple example steps.
 
