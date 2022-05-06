@@ -4,9 +4,12 @@
 
 > The website has a collection of books with the Title and Author Name with a form to add books with title and author inputs and a button to remove a book.
 
-## Live Demo
 
 ## Live Demo 🔗
+
+## Screenshots 
+
+![](./logo/book-1.png) ![](./logo/book-2.png)
 
 
 Check the live demo [here](https://braincee.github.io/Awesome-Books-with-ES6/#)👈
